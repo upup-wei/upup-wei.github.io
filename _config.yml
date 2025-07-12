@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jiaqi Wei"
 description              : "Ph.D. student at Zhejiang University. NLP and AI for Science (Life Science). "
-repository               : "jiaqi.wei/jiaqi.wei.github.io"
+repository               : "jiaqi-wei-zju/jiaqi-wei-zju.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiaqi Wei"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/android-chrome-512x512.jpg"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "QQW-ing"
+  github           : "jiaqi-wei-zju"
   google_plus      :
   keybase          :
   instagram        :
