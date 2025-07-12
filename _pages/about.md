@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Jiaqi Wei, a Ph.D. student at Zhejiang University, co-advised by Chair Prof. [Siqi Sun](https://intersun.github.io/) and [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN). I received my B.E. in Computer Science from Shandong University. My research focuses on **NLP, LLM, and AI4Science**. Feel free to contact me!
+Hi! I'm Jiaqi Wei, a Ph.D. student at Zhejiang University, co-advised by Chair Prof. [Siqi Sun](https://intersun.github.io/) and [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN). I received my B.E. in Computer Science from Shandong University. My research focuses on NLP, LLM, and AI4Science. Feel free to contact me!
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL'2025.
@@ -26,19 +26,13 @@ Hi! I'm Jiaqi Wei, a Ph.D. student at Zhejiang University, co-advised by Chair P
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**&dagger; Equal Contribution**  
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<dd><a href="https://arxiv.org/abs/2406.11906"><strong> NovoBench: Benchmarking Deep Learning-based \emph{De Novo} Sequencing Methods in Proteomics
+</strong></a></dd>
+<dd><strong><u>Jingbo Zhou&dagger;</u></strong>, Shaorong Chen&dagger;, Jun Xia&dagger;, Sizhe Liu, Tianze Ling, Wenjie Du, Yue Liu, Jianwei Yin, Stan Z. Li</dd>
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2024*, Outstanding Graduate of Shandong Province.
