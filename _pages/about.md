@@ -19,6 +19,10 @@ redirect_from:
 
 Hi! I'm Jiaqi Wei, a Ph.D. student at Zhejiang University, co-advised by Chair Prof. [Siqi Sun](https://intersun.github.io/) and [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN). I received my B.E. in Computer Science from Shandong University. My research focuses on NLP, LLM, and AI4Science. Feel free to contact me!
 
+Hello! I'm Jiaqi Wei, a Ph.D. student at Zhejiang University, where I'm pursuing my research under the excellent guidance of Prof. [Siqi Sun](https://intersun.github.io/) and [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN). Before beginning my doctoral studies here, I completed my B.E. degree in Computer Science at Shandong University (rank 1st).
+
+My core research interests lie at the fascinating intersection of **Natural Language Processing (NLP)**, **Large Language Models (LLM)**, and **AI for Science (AI4Science)**. I'm always eager to connect with fellow researchers and practitioners in these fields. Feel free to reach out if you'd like to discuss potential collaborations or share ideas!
+
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL'2025.
 - *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ICML'2025.
