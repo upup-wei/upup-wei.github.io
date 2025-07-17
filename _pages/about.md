@@ -73,7 +73,7 @@ Xiang Zhang, Tianze Ling, Zhi Jin, Sheng Xu, Zhiqiang Gao, Boyan Sun, Zijie Qiu,
 **&dagger; Equal Contribution**  
 
 <div>
-<dd><a href="https://scholar.google.com/scholar?oi=bibs&cluster=2597847041066764044&btnI=1&hl=zh-CN"><strong> MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing
+<dd><a href="https://scholar.google.com/scholar?oi=bibs&cluster=2597847041066764044&btnI=1&hl=zh-CN"><strong> (Nature Methods Under Review) MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing
 </strong></a></dd>
 <dd>
 A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yi Chen, Nanqin Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo</dd>
