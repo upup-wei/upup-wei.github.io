@@ -122,4 +122,4 @@ Yuhao Zhou, Yiheng Wang, Xuming He, Ruoyao Xiao, Zhiwei Li, Qiantai Feng, Zijie 
 # 💻 Internships
 - *2023.10 - (now)*, Shanghai AI Lab, China.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=JCaagJi8qkM8-W7_2CAXaDdYbBR7aTf1T5uvnGjAG28&cl=ffffff&w=300"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=JCaagJi8qkM8-W7_2CAXaDdYbBR7aTf1T5uvnGjAG28&cl=ffffff&w=500"></script>
