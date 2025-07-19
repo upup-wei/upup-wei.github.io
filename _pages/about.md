@@ -29,7 +29,7 @@ My core research interests lie at the fascinating intersection of **Natural Lang
 
 # 📝 Publications 
 
-**&dagger; Equal Contribution**  
+**First Author & Co-first Author**; **&dagger; Equal Contribution**  
 
 
 <div>
@@ -51,6 +51,24 @@ Zijie Qiu&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Xiang Zhang&dagger
 <br>
 
 <div>
+<dd><a href="https://scholar.google.com/scholar?oi=bibs&cluster=2597847041066764044&btnI=1&hl=zh-CN"><strong> (Nature Methods Under Review) MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing
+</strong></a></dd>
+<dd>
+A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yi Chen, Nanqin Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo</dd>
+</div>
+<br>
+
+<div>
+<dd><a href="https://arxiv.org/pdf/2504.14858"><strong> (Preprint) AlignRAG: Leveraging Critique Learning for Evidence-Sensitive Retrieval-Augmented Reasoning
+</strong></a></dd>
+<dd>
+<strong><u>Jiaqi Wei&dagger;</u></strong>, Hao Zhou&dagger;, Xiang Zhang, Di Zhang, Zijie Qiu, Wei Wei, Jinzhe Li, Wanli Ouyang, Siqi Sun</dd>
+</div>
+<br>
+
+**Others**
+
+<div>
 <dd><a href="https://arxiv.org/pdf/2503.10084"><strong> (ACL'2025) Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs
 </strong></a></dd>
 <dd>
@@ -68,28 +86,9 @@ Xiang Zhang, Tianze Ling, Zhi Jin, Sheng Xu, Zhiqiang Gao, Boyan Sun, Zijie Qiu,
 </div>
 <br>
 
-# 📝 Preprints 
-
-**&dagger; Equal Contribution**  
 
 <div>
-<dd><a href="https://scholar.google.com/scholar?oi=bibs&cluster=2597847041066764044&btnI=1&hl=zh-CN"><strong> (Nature Methods Under Review) MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing
-</strong></a></dd>
-<dd>
-A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yi Chen, Nanqin Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo</dd>
-</div>
-<br>
-
-<div>
-<dd><a href="https://arxiv.org/pdf/2504.14858"><strong> AlignRAG: Leveraging Critique Learning for Evidence-Sensitive Retrieval-Augmented Reasoning
-</strong></a></dd>
-<dd>
-<strong><u>Jiaqi Wei&dagger;</u></strong>, Hao Zhou&dagger;, Xiang Zhang, Di Zhang, Zijie Qiu, Wei Wei, Jinzhe Li, Wanli Ouyang, Siqi Sun</dd>
-</div>
-<br>
-
-<div>
-<dd><a href="https://arxiv.org/pdf/2505.14178"><strong> Tokenization Constraints in LLMs: A Study of Symbolic and Arithmetic Reasoning Limits
+<dd><a href="https://arxiv.org/pdf/2505.14178"><strong> (Preprint) Tokenization Constraints in LLMs: A Study of Symbolic and Arithmetic Reasoning Limits
 </strong></a></dd>
 <dd>
 Xiang Zhang, Juntai Cao, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
@@ -99,7 +98,7 @@ Xiang Zhang, Juntai Cao, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
 
 
 <div>
-<dd><a href="https://arxiv.org/pdf/2506.10521?"><strong> Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning
+<dd><a href="https://arxiv.org/pdf/2506.10521?"><strong> (Preprint) Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning
 </strong></a></dd>
 <dd>
 Yuhao Zhou, Yiheng Wang, Xuming He, Ruoyao Xiao, Zhiwei Li, Qiantai Feng, Zijie Guo, Yuejin Yang, Hao Wu, Wenxuan Huang, <strong><u>Jiaqi Wei</u></strong>, Dan Si, Xiuqi Yao, Jia Bu, Haiwen Huang, Tianfan Fu, Shixiang Tang, Ben Fei, Dongzhan Zhou, Fenghua Ling, Yan Lu, Siqi Sun, Chenhui Li, Guanjie Zheng, Jiancheng Lv, Wenlong Zhang, Lei Bai
@@ -111,6 +110,7 @@ Yuhao Zhou, Yiheng Wang, Xuming He, Ruoyao Xiao, Zhiwei Li, Qiantai Feng, Zijie 
 # 🎖 Honors and Awards
 - *2024*, Outstanding Graduate of Shandong Province.
 - *2024*, Outstanding Graduate of Shandong University.
+- *2023*, Merit Student of Shandong University.
 - *2023*, National Scholarship.
 - *2022*, National Scholarship.
 
