@@ -29,7 +29,8 @@ My core research interests lie at the fascinating intersection of **Natural Lang
 
 # 📝 Publications 
 
-**First Author & Co-first Author**; **&dagger; Equal Contribution**  
+**First Author and Co-first Author**; 
+**&dagger; means Equal Contribution**  
 
 
 <div>
