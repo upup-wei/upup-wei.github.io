@@ -60,7 +60,7 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 <br>
 
 <div>
-<dd><a href="https://arxiv.org/pdf/2504.14858"><strong> (Preprint) AlignRAG: Leveraging Critique Learning for Evidence-Sensitive Retrieval-Augmented Reasoning
+<dd><a href="https://arxiv.org/pdf/2504.14858"><strong> (Preprint) Leveraging Critique Learning for Evidence-Sensitive Retrieval-Augmented Reasoning
 </strong></a></dd>
 <dd>
 <strong><u>Jiaqi Wei&dagger;</u></strong>, Hao Zhou&dagger;, Xiang Zhang, Di Zhang, Zijie Qiu, Wei Wei, Jinzhe Li, Wanli Ouyang, Siqi Sun</dd>
