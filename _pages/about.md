@@ -22,6 +22,7 @@ Hi! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I'm pursuin
 My core research interests lie at the fascinating intersection of **Natural Language Processing (NLP)**, **Large Language Models (LLM)**, and **AI for Science (AI4Science)**. I'm always eager to connect with fellow researchers and practitioners in these fields. Feel free to reach out if you'd like to discuss potential collaborations or share ideas! Here is my [WeChat](https://upup-wei.github.io/images/wechat.JPG).
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Our survey about "Agentic Science" was released. Thanks to all collaborators.
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL'2025.
 - *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ICML'2025.
 - *2024.11*: &nbsp;🎉🎉 One paper has been accepted by Nature Communications.
@@ -64,6 +65,14 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 </strong></a></dd>
 <dd>
 <strong><u>Jiaqi Wei&dagger;</u></strong>, Hao Zhou&dagger;, Xiang Zhang, Di Zhang, Zijie Qiu, Wei Wei, Jinzhe Li, Wanli Ouyang, Siqi Sun</dd>
+</div>
+<br>
+
+<div>
+<dd><a href="https://github.com/AgenticScience/Awesome-Agent-Scientists"><strong> (Preprint) From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery
+</strong></a></dd>
+<dd>
+<strong><u>Jiaqi Wei</u></strong>, Jiaqi Wei, Yuejin Yang, Xiang Zhang, Yuhan Chen, Xiang Zhuang, Zhangyang Gao, Dongzhan Zhou, Guangshuai Wang, Zhiqiang Gao, Juntai Cao, Zijie Qiu, Xuming He, Qiang Zhang, Chenyu You, Shuangjia Zheng, Ning Ding, Wanli Ouyang, Nanqing Dong, Yu Cheng, Siqi Sun, Lei Bai, Bowen Zhou</dd>
 </div>
 <br>
 
