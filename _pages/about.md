@@ -106,6 +106,15 @@ Xiang Zhang, Juntai Cao, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
 </div>
 <br>
 
+<div>
+<dd><a href="https://arxiv.org/abs/2508.17188"><strong> (Preprint) PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs
+</strong></a></dd>
+<dd>
+Zhilin Zhang, Xiang Zhang, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
+</dd>
+</div>
+<br>
+
 
 <div>
 <dd><a href="https://arxiv.org/pdf/2506.10521?"><strong> (Preprint) Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning
