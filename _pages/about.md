@@ -22,7 +22,8 @@ Hi! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I'm pursuin
 My core research interests lie at the fascinating intersection of **Natural Language Processing (NLP)**, **Large Language Models (LLM)**, and **AI for Science (AI4Science)**. I'm always eager to connect with fellow researchers and practitioners in these fields. Feel free to reach out if you'd like to discuss potential collaborations or share ideas! Here is my [WeChat](https://upup-wei.github.io/images/wechat.JPG).
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our survey about "Agentic Science" was released. Thanks to all collaborators.
+- *2025.08*: &nbsp;🎉🎉 [Paper2Poster](https://y-research-sbu.github.io/PosterGen/) has been released. Welcome to try it out and give us your feedback!
+- *2025.08*: &nbsp;🎉🎉 Our survey about "Agentic Science: Autonomous Scientific Discovery" was released. Thanks to all collaborators!!
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL'2025.
 - *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ICML'2025.
 - *2024.11*: &nbsp;🎉🎉 One paper has been accepted by Nature Communications.
@@ -116,7 +117,7 @@ Yuhao Zhou, Yiheng Wang, Xuming He, Ruoyao Xiao, Zhiwei Li, Qiantai Feng, Zijie 
 <br>
 
 <div>
-<dd><a href="https://arxiv.org/abs/2508.17188"><strong> (Preprint) PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs
+<dd><a href="https://y-research-sbu.github.io/PosterGen/"><strong> (Preprint) PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs
 </strong></a></dd>
 <dd>
 Zhilin Zhang, Xiang Zhang, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
