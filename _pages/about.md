@@ -22,7 +22,7 @@ Hi! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I'm pursuin
 My core research interests lie at the fascinating intersection of **Natural Language Processing (NLP)**, **Large Language Models (LLM)**, and **AI for Science (AI4Science)**. I'm always eager to connect with fellow researchers and practitioners in these fields. Feel free to reach out if you'd like to discuss potential collaborations or share ideas! Here is my [WeChat](https://upup-wei.github.io/images/wechat.JPG).
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 [Paper2Poster](https://y-research-sbu.github.io/PosterGen/) has been released. Welcome to try it out and give us your feedback!
+- *2025.08*: &nbsp;🎉🎉 [PosterGen](https://y-research-sbu.github.io/PosterGen/) has been released. Welcome to try it out and give us your feedback!
 - *2025.08*: &nbsp;🎉🎉 Our survey about "Agentic Science: Autonomous Scientific Discovery" was released. Thanks to all collaborators!!
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL'2025.
 - *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ICML'2025.
