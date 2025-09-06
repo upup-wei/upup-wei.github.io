@@ -41,7 +41,9 @@ My core research interests lie at the fascinating intersection of **Natural Lang
 <dd>
 Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu&dagger;, Sheng Xu, Nanqing Dong, Zhiqiang Gao, Siqi Sun
 </dd>
+  <dd>
 <a href="https://arxiv.org/pdf/2506.13485">[ICML'2025]</a>
+    </dd>
 </div>
 <br>
 
