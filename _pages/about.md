@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I'm pursuing my research under the excellent guidance of Prof. [Siqi Sun](https://intersun.github.io/) and Prof. [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN). Before beginning my doctoral studies here, I completed my B.E. degree in Computer Science at Shandong University (GPA: 93.83/100.00; Rank 1st).
 
-My core research interests lie at the fascinating intersection of **Natural Language Processing (NLP)**, **Large Language Models (LLM)**, and **AI for Science (AI4Science)**. I'm always eager to connect with fellow researchers and practitioners in these fields. Feel free to reach out if you'd like to discuss potential collaborations or share ideas! Here is my [WeChat](https://upup-wei.github.io/images/wechat.JPG).
+My core research interests lie at the fascinating intersection of **Natural Language Processing (NLP)**, **Large Language Models (LLM)**, and **AI for Research**. I'm always eager to connect with fellow researchers and practitioners in these fields. Feel free to reach out if you'd like to discuss potential collaborations or share ideas! Here is my [WeChat](https://upup-wei.github.io/images/wechat.JPG).
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 [PosterGen](https://y-research-sbu.github.io/PosterGen/) has been released. Welcome to try it out and give us your feedback!
@@ -153,7 +153,7 @@ Zhilin Zhang, Xiang Zhang, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu Y
 </dd>
   <dd>
   <a href="https://y-research-sbu.github.io/PosterGen/">[Arxiv]</a>, <a href="https://mp.weixin.qq.com/s/CdZg7EGphyTVy3x0Hqv3bg">[机器之心]</a>
-    </dd>
+  </dd>
 </div>
 <br>
 
