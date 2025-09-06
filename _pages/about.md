@@ -36,7 +36,7 @@ My core research interests lie at the fascinating intersection of **Natural Lang
 
 
 <div>
-<dd><a href="https://arxiv.org/pdf/2506.13485"><strong> (ICML'2025) Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing
+<dd><strong> (ICML'2025) Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing
 </strong></a></dd>
 <dd>
 Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu&dagger;, Sheng Xu, Nanqing Dong, Zhiqiang Gao, Siqi Sun
