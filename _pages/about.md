@@ -84,7 +84,7 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 <br>
 
 <div>
-<dd><strong> (Preprint) From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery
+<dd><strong> From AI for Science to Agentic Science: A Survey on Autonomous Scientific Discovery
 </strong></dd>
 <dd>
 <strong><u>Jiaqi Wei</u></strong>, Yuejin Yang, Xiang Zhang, Yuhan Chen, Xiang Zhuang, Zhangyang Gao, Dongzhan Zhou, Guangshuai Wang, Zhiqiang Gao, Juntai Cao, Zijie Qiu, Xuming He, Qiang Zhang, Chenyu You, Shuangjia Zheng, Ning Ding, Wanli Ouyang, Nanqing Dong, Yu Cheng, Siqi Sun, Lei Bai, Bowen Zhou</dd>
