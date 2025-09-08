@@ -89,7 +89,7 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 <dd>
 <strong><u>Jiaqi Wei</u></strong>, Yuejin Yang, Xiang Zhang, Yuhan Chen, Xiang Zhuang, Zhangyang Gao, Dongzhan Zhou, Guangshuai Wang, Zhiqiang Gao, Juntai Cao, Zijie Qiu, Xuming He, Qiang Zhang, Chenyu You, Shuangjia Zheng, Ning Ding, Wanli Ouyang, Nanqing Dong, Yu Cheng, Siqi Sun, Lei Bai, Bowen Zhou</dd>
   <dd>
-  <a href="https://arxiv.org/pdf/2508.14111">[Arxiv]</a>
+  <a href="https://arxiv.org/pdf/2508.14111">[Arxiv]</a>, <a href="https://mp.weixin.qq.com/s/kRDOpfxqOcFlCUP3A22Brg">[ScienceAI]</a>
     </dd>
 </div>
 <br>
