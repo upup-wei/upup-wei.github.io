@@ -22,11 +22,12 @@ Hi! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I'm pursuin
 My core research interests lie at the fascinating intersection of **Natural Language Processing (NLP)**, **Large Language Models (LLM)**, and **AI for Research**. I'm always eager to connect with fellow researchers and practitioners in these fields. Feel free to reach out if you'd like to discuss potential collaborations or share ideas! Here is my [WeChat](https://upup-wei.github.io/images/wechat.JPG).
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 3 papers have been accepted by NeurIPS'2025.
 - *2025.08*: &nbsp;🎉🎉 [PosterGen](https://y-research-sbu.github.io/PosterGen/) has been released. Welcome to try it out and give us your feedback!
 - *2025.08*: &nbsp;🎉🎉 Our survey about "Agentic Science: Autonomous Scientific Discovery" was released. Thanks to all collaborators!!
-- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by ACL'2025.
-- *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ICML'2025.
-- *2024.11*: &nbsp;🎉🎉 One paper has been accepted by Nature Communications.
+- *2025.05*: &nbsp;🎉🎉 1 paper has been accepted by ACL'2025.
+- *2025.05*: &nbsp;🎉🎉 2 papers have been accepted by ICML'2025.
+- *2024.11*: &nbsp;🎉🎉 1 paper has been accepted by Nature Communications.
 
 
 # 📝 Publications 
@@ -78,7 +79,7 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 <strong><u>Jiaqi Wei&dagger;</u></strong>, Hao Zhou&dagger;, Xiang Zhang, Di Zhang, Zijie Qiu, Wei Wei, Jinzhe Li, Wanli Ouyang, Siqi Sun
 </dd>
   <dd>
-  <a href="https://arxiv.org/pdf/2504.14858">[Arxiv]</a>
+  <a href="https://arxiv.org/pdf/2504.14858">[NeurIPS'2025]</a>
     </dd>
 </div>
 <br>
@@ -90,6 +91,18 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 <strong><u>Jiaqi Wei</u></strong>, Yuejin Yang, Xiang Zhang, Yuhan Chen, Xiang Zhuang, Zhangyang Gao, Dongzhan Zhou, Guangshuai Wang, Zhiqiang Gao, Juntai Cao, Zijie Qiu, Xuming He, Qiang Zhang, Chenyu You, Shuangjia Zheng, Ning Ding, Wanli Ouyang, Nanqing Dong, Yu Cheng, Siqi Sun, Lei Bai, Bowen Zhou</dd>
   <dd>
   <a href="https://arxiv.org/pdf/2508.14111">[Arxiv]</a>, <a href="https://mp.weixin.qq.com/s/kRDOpfxqOcFlCUP3A22Brg">[ScienceAI]</a>
+    </dd>
+</div>
+<br>
+
+<div>
+<dd><strong> Distilling Non-Autoregressive Model Knowledge for Autoregressive De Novo Peptide Sequencing
+</strong></dd>
+<dd>
+Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu, Sheng Xu, Zhi Jin, ZhiQiang Gao, Nanqing Dong, Siqi Sun
+</dd>
+  <dd>
+  <a href="https://openreview.net/pdf?id=I2ZYngkRW6">[NeurIPS'2025]</a>
     </dd>
 </div>
 <br>
@@ -140,7 +153,7 @@ Xiang Zhang, Juntai Cao, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
 Yuhao Zhou, Yiheng Wang, Xuming He, Ruoyao Xiao, Zhiwei Li, Qiantai Feng, Zijie Guo, Yuejin Yang, Hao Wu, Wenxuan Huang, <strong><u>Jiaqi Wei</u></strong>, Dan Si, Xiuqi Yao, Jia Bu, Haiwen Huang, Tianfan Fu, Shixiang Tang, Ben Fei, Dongzhan Zhou, Fenghua Ling, Yan Lu, Siqi Sun, Chenhui Li, Guanjie Zheng, Jiancheng Lv, Wenlong Zhang, Lei Bai
 </dd>
   <dd>
-  <a href="https://arxiv.org/pdf/2506.10521?">[Arxiv]</a>, <a href="https://mp.weixin.qq.com/s/W2dp0k1Jh7eZAmm1ukAjKQ">[机器之心]</a>
+  <a href="https://arxiv.org/pdf/2506.10521?">[NeurIPS'2025]</a>, <a href="https://mp.weixin.qq.com/s/W2dp0k1Jh7eZAmm1ukAjKQ">[机器之心]</a>
     </dd>
 </div>
 <br>
