@@ -177,6 +177,7 @@ Zhilin Zhang, Xiang Zhang, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu Y
 - *2023*, Merit Student of Shandong University.
 - *2023*, National Scholarship.
 - *2022*, National Scholarship.
+- *2021-2024*, 1st Class Excellent Student Scholarships in SDU \* 3
 
 # 📖 Educations
 - *2024.09 - (now)*, Zhejiang University.
