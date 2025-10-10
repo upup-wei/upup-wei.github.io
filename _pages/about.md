@@ -96,13 +96,13 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 <br>
 
 <div>
-<dd><strong> Distilling Non-Autoregressive Model Knowledge for Autoregressive De Novo Peptide Sequencing
+<dd><strong> Bidirectional Representations Augmented Autoregressive Biological Sequence Generation: Application in De Novo Peptide Sequencing
 </strong></dd>
 <dd>
 Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu, Sheng Xu, Zhi Jin, ZhiQiang Gao, Nanqing Dong, Siqi Sun
 </dd>
   <dd>
-  <a href="https://openreview.net/pdf?id=I2ZYngkRW6">[NeurIPS'2025]</a>
+  <a href="https://arxiv.org/pdf/2510.08169">[NeurIPS'2025]</a>
     </dd>
 </div>
 <br>
