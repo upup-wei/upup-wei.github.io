@@ -19,10 +19,10 @@ redirect_from:
 
 Hi there👋! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I'm pursuing my research under the excellent guidance of Prof. [Siqi Sun](https://intersun.github.io/) and Prof. [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN). Before beginning my doctoral studies here, I completed my B.E. degree in Computer Science at Shandong University (GPA: 93.83/100.00; Rank 1st).
 
-My core research interests lie at the fascinating intersection of **LLM**, **Agent** and **AI (Agent) for Science**. Feel free to reach out if you'd like to discuss potential collaborations or share ideas!
+My core research interests lie at the fascinating intersection of **LLM**, **Agent** and **AI for Science**. Feel free to reach out if you'd like to discuss potential collaborations or share ideas!
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 3 papers have been accepted by NeurIPS'2025.
+- *2025.09*: &nbsp;🎉🎉 3 papers have been accepted by NeurIPS'2025, 1 paper has been accepted by EMNLP'2025 NewSumm Workshop.
 - *2025.08*: &nbsp;🎉🎉 [PosterGen](https://y-research-sbu.github.io/PosterGen/) has been released. Welcome to try it out and give us your feedback!
 - *2025.08*: &nbsp;🎉🎉 Our survey about "Agentic Science: Autonomous Scientific Discovery" was released. Thanks to all collaborators!!
 - *2025.05*: &nbsp;🎉🎉 1 paper has been accepted by ACL'2025.
@@ -182,8 +182,21 @@ Zhilin Zhang, Xiang Zhang, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu Y
 </div>
 <br>
 
+<div>
+<dd><strong> Multi2: Multi-agent test-time scalable framework for multi-document processing
+</strong></dd>
+<dd>
+Juntai Cao, Xiang Zhang, Raymond Li, <strong><u>Jiaqi Wei</u></strong>, Chuyuan Li, Shafiq Joty, Giuseppe Carenini
+</dd>
+  <dd>
+  <a href="https://aclanthology.org/2025.newsum-main.10.pdf">[EMNLP'2025 NewSumm Workshop]</a>
+  </dd>
+</div>
+<br>
+
 
 # 🎖 Honors and Awards
+- *2025*, Outstanding graduate students of ZJU.
 - *2024*, Outstanding Graduate of Shandong Province.
 - *2024*, Outstanding Graduate of Shandong University.
 - *2023*, Merit Student of Shandong University.
