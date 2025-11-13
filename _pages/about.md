@@ -73,7 +73,7 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 <br>
 
 <div>
-<dd><strong> Leveraging Critique Learning for Evidence-Sensitive Retrieval-Augmented Reasoning
+<dd><strong> Retrieval is Not Enough: Enhancing RAG through Test-Time Critique and Optimization
 </strong></dd>
 <dd>
 <strong><u>Jiaqi Wei&dagger;</u></strong>, Hao Zhou&dagger;, Xiang Zhang, Di Zhang, Zijie Qiu, Wei Wei, Jinzhe Li, Wanli Ouyang, Siqi Sun
