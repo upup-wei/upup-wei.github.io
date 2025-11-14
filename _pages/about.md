@@ -43,7 +43,7 @@ My core research interests lie at the fascinating intersection of **LLM**, **Age
 Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu&dagger;, Sheng Xu, Nanqing Dong, Zhiqiang Gao, Siqi Sun
 </dd>
   <dd>
-  <a href="https://arxiv.org/pdf/2506.13485">[<span style='color:red'>ICML'2025</span>]</a>
+  <a href="https://arxiv.org/pdf/2506.13485"><span style='color:red'>[ICML'2025]</span></a>
   </dd>
 </div>
 <br>
@@ -55,7 +55,7 @@ Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu&dagger
 Zijie Qiu&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Xiang Zhang&dagger;, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, Nanqing Dong, Siqi Sun
 </dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2505.17552">[<span style="color:red"> ICML'2025]</span> </a>
+    <a href="https://arxiv.org/pdf/2505.17552"><span style="color:red"> [ICML'2025]</span> </a>
     </dd>
 </div>
 <br>
@@ -67,7 +67,7 @@ Zijie Qiu&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Xiang Zhang&dagger
 A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yi Chen, Nanqin Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo
 </dd>
   <dd>
-    <a href="https://www.biorxiv.org/content/biorxiv/early/2025/06/26/2025.06.20.660691.full.pdf">[<span style="color:red">Nature Methods Under Review</span>]</a>
+    <a href="https://www.biorxiv.org/content/biorxiv/early/2025/06/26/2025.06.20.660691.full.pdf"><span style="color:red">[Nature Methods Under Review]</span></a>
    
     </dd>
 </div>
@@ -80,7 +80,7 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 <strong><u>Jiaqi Wei&dagger;</u></strong>, Hao Zhou&dagger;, Xiang Zhang, Di Zhang, Zijie Qiu, Wei Wei, Jinzhe Li, Wanli Ouyang, Siqi Sun
 </dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2504.14858">[<span style="color:red">NeurIPS'2025</span>]</a>
+    <a href="https://arxiv.org/pdf/2504.14858"><span style="color:red">[NeurIPS'2025]</span></a>
   
     </dd>
 </div>
@@ -92,7 +92,7 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 <dd>
 <strong><u>Jiaqi Wei</u></strong>, Yuejin Yang, Xiang Zhang, Yuhan Chen, Xiang Zhuang, Zhangyang Gao, Dongzhan Zhou, Guangshuai Wang, Zhiqiang Gao, Juntai Cao, Zijie Qiu, Xuming He, Qiang Zhang, Chenyu You, Shuangjia Zheng, Ning Ding, Wanli Ouyang, Nanqing Dong, Yu Cheng, Siqi Sun, Lei Bai, Bowen Zhou</dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2508.14111">[<span style="color:red">Arxiv/span>]</a>, <a href="https://mp.weixin.qq.com/s/kRDOpfxqOcFlCUP3A22Brg">[ScienceAI]</a><
+    <a href="https://arxiv.org/pdf/2508.14111"><span style="color:red">[Arxiv]<span></a>, <a href="https://mp.weixin.qq.com/s/kRDOpfxqOcFlCUP3A22Brg">[ScienceAI]</a>
   
     </dd>
 </div>
@@ -105,7 +105,7 @@ A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&
 Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu, Sheng Xu, Zhi Jin, ZhiQiang Gao, Nanqing Dong, Siqi Sun
 </dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2510.08169">[<span style="color:red">NeurIPS'2025</span>]</a>
+    <a href="https://arxiv.org/pdf/2510.08169"><span style="color:red">[NeurIPS'2025]</span></a>
   
     </dd>
 </div>
@@ -118,7 +118,7 @@ Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu, Sheng
 Haokun Zhao&dagger;, Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Yiwei Xu, Yuting He, Siqi Sun, Chenyu You
 </dd>
   <dd>
-    <a href="https://arxiv.org/abs/2510.01538">[<span style="color:red">Arxiv</span>]</a>
+    <a href="https://arxiv.org/abs/2510.01538"><span style="color:red">[Arxiv]</span></a>
   
     </dd>
 </div>
@@ -133,7 +133,7 @@ Haokun Zhao&dagger;, Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></stro
 Xiang Zhang, Juntai Cao, <strong><u>Jiaqi Wei</u></strong>, Chenyu You, Dujian Ding
 </dd>
   <dd>
-    <span style="color:red"><a href="https://arxiv.org/pdf/2503.10084">[ACL'2025]</a>, <a href="https://mp.weixin.qq.com/s/6iaW8OYSnruobcpDLUDxQQ">[机器之心]</a></span>
+    <a href="https://arxiv.org/pdf/2503.10084"><span style="color:red">[ACL'2025]</span></a>, <a href="https://mp.weixin.qq.com/s/6iaW8OYSnruobcpDLUDxQQ"><span style="color:red">[机器之心]</span></a>
   
     </dd>
 </div>
@@ -146,7 +146,7 @@ Xiang Zhang, Juntai Cao, <strong><u>Jiaqi Wei</u></strong>, Chenyu You, Dujian D
 Xiang Zhang, Tianze Ling, Zhi Jin, Sheng Xu, Zhiqiang Gao, Boyan Sun, Zijie Qiu, <strong><u>Jiaqi Wei</u></strong>, Nanqing Dong, Guangshuai Wang, Guibin Wang, Leyuan Li, Muhammad Abdul-Mageed, Laks VS Lakshmanan, Fuchu He, Wanli Ouyang, Cheng Chang, Siqi Sun
 </dd>
   <dd>
-    <span style="color:red"><a href="https://www.nature.com/articles/s41467-024-55021-3">[Nature Communications]</a>, <a href="https://mp.weixin.qq.com/s/PXHeTYclvaZ235Zx6i5Osg">[DrugAI]</a></span>
+    <a href="https://www.nature.com/articles/s41467-024-55021-3"><span style="color:red">[Nature Communications]</span></a>, <a href="https://mp.weixin.qq.com/s/PXHeTYclvaZ235Zx6i5Osg"><span style="color:red">[DrugAI]</span></a>
   
     </dd>
 </div>
@@ -160,7 +160,7 @@ Xiang Zhang, Tianze Ling, Zhi Jin, Sheng Xu, Zhiqiang Gao, Boyan Sun, Zijie Qiu,
 Xiang Zhang, Juntai Cao, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
 </dd>
   <dd>
-    <span style="color:red"><a href="https://arxiv.org/pdf/2505.14178">[Arxiv]</a></span>
+    <a href="https://arxiv.org/pdf/2505.14178"><span style="color:red">[Arxiv]</span></a>
   
     </dd>
 </div>
@@ -173,7 +173,7 @@ Xiang Zhang, Juntai Cao, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
 Yuhao Zhou, Yiheng Wang, Xuming He, Ruoyao Xiao, Zhiwei Li, Qiantai Feng, Zijie Guo, Yuejin Yang, Hao Wu, Wenxuan Huang, <strong><u>Jiaqi Wei</u></strong>, Dan Si, Xiuqi Yao, Jia Bu, Haiwen Huang, Tianfan Fu, Shixiang Tang, Ben Fei, Dongzhan Zhou, Fenghua Ling, Yan Lu, Siqi Sun, Chenhui Li, Guanjie Zheng, Jiancheng Lv, Wenlong Zhang, Lei Bai
 </dd>
   <dd>
-    <span style="color:red"><a href="https://arxiv.org/pdf/2506.10521?">[NeurIPS'2025]</a>, <a href="https://mp.weixin.qq.com/s/W2dp0k1Jh7eZAmm1ukAjKQ">[机器之心]</a></span>
+    <a href="https://arxiv.org/pdf/2506.10521?"><span style="color:red">[NeurIPS'2025]</span></a>, <a href="https://mp.weixin.qq.com/s/W2dp0k1Jh7eZAmm1ukAjKQ"><span style="color:red">[机器之心]</span></a>
   
     </dd>
 </div>
@@ -186,7 +186,7 @@ Yuhao Zhou, Yiheng Wang, Xuming He, Ruoyao Xiao, Zhiwei Li, Qiantai Feng, Zijie 
 Zhilin Zhang, Xiang Zhang, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
 </dd>
   <dd>
-    <span style="color:red"><a href="https://y-research-sbu.github.io/PosterGen/">[Arxiv]</a>, <a href="https://mp.weixin.qq.com/s/CdZg7EGphyTVy3x0Hqv3bg">[机器之心]</a></span>
+    <a href="https://y-research-sbu.github.io/PosterGen/"><span style="color:red">[Arxiv]</span></a>, <a href="https://mp.weixin.qq.com/s/CdZg7EGphyTVy3x0Hqv3bg"><span style="color:red">[机器之心]</span></a>
   
   </dd>
 </div>
@@ -199,7 +199,7 @@ Zhilin Zhang, Xiang Zhang, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu Y
 Juntai Cao, Xiang Zhang, Raymond Li, <strong><u>Jiaqi Wei</u></strong>, Chuyuan Li, Shafiq Joty, Giuseppe Carenini
 </dd>
   <dd>
-    <span style="color:red"><a href="https://aclanthology.org/2025.newsum-main.10.pdf">[EMNLP'2025 NewSumm Workshop]</a></span>
+    <a href="https://aclanthology.org/2025.newsum-main.10.pdf"><span style="color:red">[EMNLP'2025 NewSumm Workshop]</span></a>
   
   </dd>
 </div>
