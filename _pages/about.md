@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there👋! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I conduct my research under the excellent guidance of Prof. [Siqi Sun](https://intersun.github.io/) and Prof. [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN). I have also closely collaborated with Prof. [Chenyu You](https://chenyuyou.me/) and [Xiang Zhang]([[https://intersun.github.io/]()](https://scholar.google.com/citations?user=rHLK5ggAAAAJ&hl=zh-CN)) Before beginning my doctoral studies here, I completed my B.E. degree in Computer Science at Shandong University (GPA: 93.83/100.00; Rank 1st).
+Hi there👋! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I conduct my research under the excellent guidance of Prof. [Siqi Sun](https://intersun.github.io/) and Prof. [Wanli Ouyang](https://scholar.google.com/citations?user=pw_0Z_UAAAAJ&hl=zh-CN). I have also closely collaborated with Prof. [Chenyu You](https://chenyuyou.me/) and [Xiang Zhang](https://scholar.google.com/citations?user=rHLK5ggAAAAJ&hl=zh-CN) Before beginning my doctoral studies here, I completed my B.E. degree in Computer Science at Shandong University (GPA: 93.83/100.00; Rank 1st).
 
 My core research interests lie at the fascinating intersection of **LLM**, **Agent** and **AI for Science**. Feel free to reach out if you'd like to discuss potential collaborations or share ideas!
 
