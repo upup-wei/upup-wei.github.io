@@ -35,7 +35,6 @@ My core research interests lie at the fascinating intersection of **LLM**, **Age
 **First Author and Co-first Author**; 
 **&dagger; means Equal Contribution**  
 
-
 <div>
 <dd><strong> Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing
 </strong></dd>
@@ -143,8 +142,6 @@ Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Yuejin Yang, Zij
 </div>
 <br>
 
-**Others**
-
 <div>
 <dd><strong> Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs
 </strong></dd>
@@ -171,18 +168,6 @@ Xiang Zhang, Tianze Ling, Zhi Jin, Sheng Xu, Zhiqiang Gao, Boyan Sun, Zijie Qiu,
 
 
 <div>
-<dd><strong> Tokenization Constraints in LLMs: A Study of Symbolic and Arithmetic Reasoning Limits
-</strong></dd>
-<dd>
-Xiang Zhang, Juntai Cao, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
-</dd>
-  <dd>
-    <a href="https://arxiv.org/pdf/2505.14178"><span style="color:red">[Arxiv]</span></a>
-    </dd>
-</div>
-<br>
-
-<div>
 <dd><strong> Scientists' First Exam: Probing Cognitive Abilities of MLLM via Perception, Understanding, and Reasoning
 </strong></dd>
 <dd>
@@ -192,8 +177,8 @@ Yuhao Zhou, Yiheng Wang, Xuming He, Ruoyao Xiao, Zhiwei Li, Qiantai Feng, Zijie 
     <a href="https://arxiv.org/pdf/2506.10521?"><span style="color:red">[NeurIPS'2025]</span></a>, <a href="https://mp.weixin.qq.com/s/W2dp0k1Jh7eZAmm1ukAjKQ"><span style="color:red">[机器之心]</span></a>
     </dd>
 </div>
-<br>
 
+<br>
 <div>
 <dd><strong> PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs
 </strong></dd>
@@ -202,18 +187,6 @@ Zhilin Zhang, Xiang Zhang, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu Y
 </dd>
   <dd>
     <a href="https://y-research-sbu.github.io/PosterGen/"><span style="color:red">[Arxiv]</span></a>, <a href="https://mp.weixin.qq.com/s/CdZg7EGphyTVy3x0Hqv3bg"><span style="color:red">[机器之心]</span></a>
-  </dd>
-</div>
-<br>
-
-<div>
-<dd><strong> Multi2: Multi-agent test-time scalable framework for multi-document processing
-</strong></dd>
-<dd>
-Juntai Cao, Xiang Zhang, Raymond Li, <strong><u>Jiaqi Wei</u></strong>, Chuyuan Li, Shafiq Joty, Giuseppe Carenini
-</dd>
-  <dd>
-    <a href="https://aclanthology.org/2025.newsum-main.10.pdf"><span style="color:red">[EMNLP'2025 NewSumm Workshop]</span></a>
   </dd>
 </div>
 <br>
