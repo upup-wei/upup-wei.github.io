@@ -30,7 +30,7 @@ My core research interests lie at the fascinating intersection of **LLM**, **Age
 - *2024.11*: &nbsp;🎉🎉 1 paper has been accepted by Nature Communications.
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 **First Author and Co-first Author**; 
 **&dagger; means Equal Contribution**  
@@ -115,6 +115,30 @@ Haokun Zhao&dagger;, Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></stro
 </dd>
   <dd>
     <a href="https://arxiv.org/abs/2510.01538"><span style="color:red">[Arxiv]</span></a>
+    </dd>
+</div>
+<br>
+
+<div>
+<dd><strong> FORESTLLM: Large Language Models Make Random Forest Great on Few-shot Tabular Learning
+</strong></dd>
+<dd>
+Zhihan Yang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Xiang Zhang, Haoyu Dong, Yiwen Wang, Xiaoke Guo, Pengkun Zhang, Yiwei Xu, Chenyu You
+</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2601.11311"><span style="color:red">[Arxiv]</span></a>
+    </dd>
+</div>
+<br>
+
+<div>
+<dd><strong> Reflection Pretraining Enables Token-Level Self-Correction in Biological Sequence Models
+</strong></dd>
+<dd>
+Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Yuejin Yang, Zijie Qiu, Yuhan Chen, Zhiqiang Gao, Muhammad Abdul-Mageed, Laks VS Lakshmanan, Wanli Ouyang, Chenyu You, Siqi Sun
+</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2512.20954"><span style="color:red">[Arxiv]</span></a>
     </dd>
 </div>
 <br>
