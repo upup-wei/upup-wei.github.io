@@ -22,8 +22,8 @@ Hi there👋! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I
 My core research interests lie at the fascinating intersection of **LLM**, **Agent** and **AI for Science**. Feel free to reach out if you'd like to discuss potential collaborations or share ideas!
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 3 papers have been accepted by NeurIPS'2025, 1 paper has been accepted by EMNLP'2025 NewSumm Workshop.
-- *2025.08*: &nbsp;🎉🎉 [PosterGen](https://y-research-sbu.github.io/PosterGen/) has been released. Welcome to try it out and give us your feedback!
+- *2025.10*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP'2025 NewSumm Workshop.
+- *2025.09*: &nbsp;🎉🎉 3 papers have been accepted by NeurIPS'2025.
 - *2025.08*: &nbsp;🎉🎉 Our survey about "Agentic Science: Autonomous Scientific Discovery" was released. Thanks to all collaborators!!
 - *2025.05*: &nbsp;🎉🎉 1 paper has been accepted by ACL'2025.
 - *2025.05*: &nbsp;🎉🎉 2 papers have been accepted by ICML'2025.
