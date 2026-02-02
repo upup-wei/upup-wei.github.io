@@ -32,7 +32,7 @@ My core research interests lie at the fascinating intersection of **LLM**, **Age
 
 # 📝 Selected Publications 
 
-**First Author and Co-first Author**; 
+**🥇 (Co-) First Author Publications**; 
 **&dagger; means Equal Contribution**  
 
 <div>
@@ -141,6 +141,8 @@ Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Yuejin Yang, Zij
     </dd>
 </div>
 <br>
+
+**🥈 Co-Author Publications**; 
 
 <div>
 <dd><strong> Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs
