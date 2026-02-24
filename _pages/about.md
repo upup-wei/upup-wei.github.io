@@ -22,6 +22,7 @@ Hi there👋! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I
 My core research interests lie at the fascinating intersection of **LLM**, **Agent** and **AI for Science**. Feel free to reach out if you'd like to discuss potential collaborations or share ideas!
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 1 paper has been accepted by CVPR'2026 Findings.
 - *2025.10*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP'2025 NewSumm Workshop.
 - *2025.09*: &nbsp;🎉🎉 3 papers have been accepted by NeurIPS'2025.
 - *2025.08*: &nbsp;🎉🎉 Our survey about "Agentic Science: Autonomous Scientific Discovery" was released. Thanks to all collaborators!!
