@@ -189,7 +189,7 @@ Yuhao Zhou, Yiheng Wang, Xuming He, Ruoyao Xiao, Zhiwei Li, Qiantai Feng, Zijie 
 Zhilin Zhang, Xiang Zhang, <strong><u>Jiaqi Wei</u></strong>, Yiwei Xu, Chenyu You
 </dd>
   <dd>
-    <a href="https://y-research-sbu.github.io/PosterGen/"><span style="color:red">[Arxiv]</span></a>, <a href="https://mp.weixin.qq.com/s/CdZg7EGphyTVy3x0Hqv3bg"><span style="color:red">[机器之心]</span></a>
+    <a href="https://y-research-sbu.github.io/PosterGen/"><span style="color:red">[CVPR'2026 Findings]</span></a>, <a href="https://mp.weixin.qq.com/s/CdZg7EGphyTVy3x0Hqv3bg"><span style="color:red">[机器之心]</span></a>
   </dd>
 </div>
 <br>
