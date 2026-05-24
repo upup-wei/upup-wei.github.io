@@ -372,3 +372,81 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.profile-table {
+    width: 100%;
+}
+
+.profile-info {
+    width: 670px;
+    vertical-align: top;
+}
+
+.profile-photo-cell {
+    text-align: right;
+    vertical-align: top;
+}
+
+.profile-photo {
+    width: 250px;
+    max-width: 100%;
+}
+
+.social-links {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 4px;
+}
+
+.social-links img {
+    margin-bottom: -3px;
+}
+
+.scroll-list {
+    max-height: 200px;
+    overflow: auto;
+}
+
+.publication-list li {
+    line-height: 1.35;
+}
+
+.venue {
+    color: red;
+}
+
+@media screen and (max-width: 720px) {
+    body {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 18px;
+        max-width: none;
+    }
+
+    #layout-content {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .profile-table,
+    .profile-table tbody,
+    .profile-table tr,
+    .profile-table td {
+        display: block;
+        width: 100%;
+    }
+
+    .profile-photo-cell {
+        text-align: left;
+        margin-top: 14px;
+    }
+
+    .profile-photo {
+        width: 180px;
+    }
+
+    h1 {
+        font-size: 150%;
+    }
+}
