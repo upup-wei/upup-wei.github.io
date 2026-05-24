@@ -425,31 +425,57 @@ table.imgtable, table.imgtable td {
 }
 
 .education-logo {
-    max-width: 260px;
-    max-height: 110px;
-    object-fit: contain;
+    width: 260px;
+    max-width: 100%;
+    height: auto;
 }
 
-.experience-list {
-    margin-top: 0.2em;
-    margin-bottom: 0.8em;
-}
-
-.experience-item {
-    border-left: 3px solid #527bbd;
-    padding-left: 14px;
+.internship-entry {
+    margin-top: 0.35em;
+    margin-bottom: 0.9em;
+    padding: 10px 0 10px 14px;
+    border-left: 4px solid #527bbd;
     line-height: 1.35;
+    max-width: 720px;
 }
 
-.experience-main {
+.internship-head {
     display: flex;
     justify-content: space-between;
-    gap: 16px;
-    max-width: 620px;
+    align-items: baseline;
+    gap: 18px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #dddddd;
 }
 
-.experience-mentor {
-    margin-top: 2px;
+.internship-org {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.internship-date {
+    color: #666666;
+    font-size: 15px;
+    white-space: nowrap;
+}
+
+.internship-detail {
+    margin-top: 7px;
+}
+
+.internship-row {
+    display: grid;
+    grid-template-columns: 72px 1fr;
+    column-gap: 10px;
+    margin-top: 3px;
+    color: #222222;
+    font-size: 15px;
+}
+
+.internship-label {
+    color: #666666;
+    font-size: 15px;
+    font-weight: bold;
 }
 
 @media screen and (max-width: 720px) {
@@ -486,7 +512,17 @@ table.imgtable, table.imgtable td {
         font-size: 150%;
     }
 
-    .experience-main {
+    .internship-entry {
         display: block;
+    }
+
+    .internship-head,
+    .internship-row {
+        display: block;
+    }
+
+    .internship-date {
+        display: block;
+        margin-top: 2px;
     }
 }
