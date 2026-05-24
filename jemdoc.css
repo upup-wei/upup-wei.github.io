@@ -417,6 +417,41 @@ table.imgtable, table.imgtable td {
     font-weight: bold;
 }
 
+.education-logo-cell {
+    width: 320px;
+    height: 130px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.education-logo {
+    max-width: 260px;
+    max-height: 110px;
+    object-fit: contain;
+}
+
+.experience-list {
+    margin-top: 0.2em;
+    margin-bottom: 0.8em;
+}
+
+.experience-item {
+    border-left: 3px solid #527bbd;
+    padding-left: 14px;
+    line-height: 1.35;
+}
+
+.experience-main {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    max-width: 620px;
+}
+
+.experience-mentor {
+    margin-top: 2px;
+}
+
 @media screen and (max-width: 720px) {
     body {
         margin-top: 0;
@@ -449,5 +484,9 @@ table.imgtable, table.imgtable td {
 
     h1 {
         font-size: 150%;
+    }
+
+    .experience-main {
+        display: block;
     }
 }
