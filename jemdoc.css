@@ -102,6 +102,11 @@ strong {
   color: var(--accent);
 }
 
+.nav-links a.active {
+  color: var(--accent);
+  font-weight: 500;
+}
+
 .page {
   width: min(100%, 980px);
   margin: 0 auto;
@@ -148,7 +153,8 @@ strong {
   display: block;
   width: 235px;
   max-width: 100%;
-  border-radius: 4px;
+  border-radius: 14px;
+  box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #f3bcc9, 0 14px 32px rgba(17, 24, 39, 0.16);
 }
 
 .social-links {
@@ -188,8 +194,10 @@ strong {
 }
 
 .section h2 {
+  position: relative;
   margin: 0 0 1rem;
   padding-bottom: 0.45rem;
+  padding-left: 0.9rem;
   border-bottom: 1px solid var(--line);
   color: #111827;
   font-family: "Roboto Slab", Georgia, serif;
@@ -197,18 +205,55 @@ strong {
   font-weight: 400;
 }
 
+.section h2::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.15rem;
+  bottom: 0.45rem;
+  width: 4px;
+  border-radius: 2px;
+  background: var(--accent);
+}
+
 .section-note {
   color: #374151;
 }
 
 .news-list {
+  position: relative;
   max-height: 215px;
   overflow: auto;
+  padding-left: 1.25rem;
   padding-right: 0.6rem;
 }
 
+.news-list::before {
+  content: "";
+  position: absolute;
+  left: 0.43rem;
+  top: 0.35rem;
+  bottom: 0.35rem;
+  width: 2px;
+  background: var(--line);
+}
+
 .news-list p {
-  margin-bottom: 0.52rem;
+  position: relative;
+  margin-bottom: 0.7rem;
+}
+
+.news-list p::before {
+  content: "";
+  position: absolute;
+  left: -0.82rem;
+  top: 0.5rem;
+  width: 0.5rem;
+  height: 0.5rem;
+  margin-left: -0.25rem;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 3px var(--bg);
 }
 
 .news-list time {
@@ -278,23 +323,51 @@ strong {
 }
 
 .publication-list li {
-  padding: 0.9rem 0;
-  border-bottom: 1px solid var(--line);
+  padding: 1rem 1.15rem;
+  margin-bottom: 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #ffffff;
+  transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
 }
 
 .publication-list li:first-child {
   border-top: 1px solid var(--line);
 }
 
+.publication-list li:hover {
+  transform: translateY(-2px);
+  border-color: #d8dce2;
+  box-shadow: 0 8px 22px rgba(17, 24, 39, 0.07);
+}
+
 .paper-title {
   display: inline-block;
+  position: relative;
   color: #111827;
   font-weight: 700;
   line-height: 1.35;
+  text-decoration: none;
+}
+
+.paper-title::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  width: 0;
+  height: 2px;
+  border-radius: 1px;
+  background: var(--accent);
+  transition: width 220ms ease;
 }
 
 .paper-title:hover {
   color: var(--accent);
+}
+
+.paper-title:hover::after {
+  width: 100%;
 }
 
 .authors {
@@ -316,18 +389,75 @@ strong {
   align-items: center;
   min-height: 1.55rem;
   padding: 0.08rem 0.45rem;
-  border: 1px solid #f3bcc9;
+  border: 1px solid #bcd9f5;
   border-radius: 4px;
-  color: var(--accent);
-  background: #fff7f9;
+  color: #1668b3;
+  background: #f1f8ff;
   font-size: 0.82rem;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .paper-links a:hover {
-  border-color: #e99aaf;
-  color: var(--accent-dark);
+  border-color: #8fc4f5;
+  color: #0f4f82;
   text-decoration: none;
+}
+
+/* ---- Paper link type variants ---- */
+/* Publication & Media coverage -> blue (default styling above) */
+
+/* Topic tags (empty href) -> green, dashed "tag" style */
+.paper-links a[href=""] {
+  color: #2f7d5b;
+  border-color: #bfe3d3;
+  border-style: dashed;
+  background: #f1faf5;
+  cursor: default;
+}
+.paper-links a[href=""]:hover {
+  border-color: #9fd6bf;
+  color: #246a4b;
+  text-decoration: none;
+}
+
+/* Legend for paper link types */
+.paper-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.1rem;
+  margin: 0.2rem 0 1.1rem;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.legend-dot {
+  display: inline-block;
+  width: 0.72rem;
+  height: 0.72rem;
+  border-radius: 3px;
+  border: 1px solid transparent;
+}
+
+.legend-venue {
+  background: #f1f8ff;
+  border-color: #bcd9f5;
+}
+
+.legend-media {
+  background: #f1f8ff;
+  border-color: #bcd9f5;
+}
+
+.legend-topic {
+  background: #f1faf5;
+  border-color: #bfe3d3;
+  border-style: dashed;
 }
 
 .compact-list {

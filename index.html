@@ -98,6 +98,11 @@
     <section class="section" id="publications">
       <h2>Selected Publications</h2>
       <p class="section-note"><strong>(Co-) First Author Publications</strong>; <sup>&dagger;</sup> means equal contribution.</p>
+      <div class="paper-legend" aria-label="Link type legend">
+        <span class="legend-item"><span class="legend-dot legend-venue"></span>Publication</span>
+        <span class="legend-item"><span class="legend-dot legend-media"></span>Media coverage</span>
+        <span class="legend-item"><span class="legend-dot legend-topic"></span>Research topic</span>
+      </div>
       <ul class="publication-list">
         <li>
           <a class="paper-title" href="https://arxiv.org/pdf/2605.03314" target="_blank" rel="noopener">When to Think, When to Speak: Learning Disclosure Policies for Large Language Model Reasoning</a>
@@ -263,6 +268,30 @@
       </div>
     </section>
   </main>
+
+  <script>
+    (function() {
+      const sections = ['about', 'news', 'publications', 'education'];
+      const navLinks = document.querySelectorAll('.nav-links a[href^="#"]');
+      const offset = 120;
+
+      function onScroll() {
+        let current = '';
+        for (const id of sections) {
+          const el = document.getElementById(id);
+          if (el && el.getBoundingClientRect().top <= offset) {
+            current = id;
+          }
+        }
+        navLinks.forEach(link => {
+          link.classList.toggle('active', link.getAttribute('href') === '#' + current);
+        });
+      }
+
+      window.addEventListener('scroll', onScroll, { passive: true });
+      onScroll();
+    })();
+  </script>
 
   <footer class="site-footer">
     <div class="visitor-map">
